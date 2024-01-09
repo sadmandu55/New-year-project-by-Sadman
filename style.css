@@ -1,0 +1,46 @@
+.banner-img{
+    width: 837px;
+    border-radius: 16px;
+    margin-top: 10px;
+    margin-left: 217px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+
+.banner-section{
+    
+}
+
+.banner-title{
+    color: rgb(241, 241, 241);
+    text-align: center;
+    margin-top: -246px;
+    margin-left: 52px;
+    font-family: 'Merriweather', serif;
+    font-size: 13px;
+    line-height: 30px;
+    
+}
+
+.banner-head{
+    color: #FFF;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 44px;
+    font-weight: 900;
+    line-height: 46px;  
+    margin-left: 48px;
+    margin-top: -9px;
+}
+
+.sec-title{
+  
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 164px;
+    margin-left: 49px;
+}
