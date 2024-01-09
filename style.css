@@ -36,11 +36,79 @@
   
     color: #F00;
     text-align: center;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 46px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
     margin-top: 164px;
     margin-left: 49px;
+}
+
+.sec-dec{
+    color: #F00;
+    text-align: center;
+    font-family: 'Inter', sans-serif;    
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 500;
+    margin-left: 54px;
+    margin-top: -27px;
+}
+
+.sec-head{
+    color: #070211;
+    text-align: center;
+    font-family: 'Inter', sans-serif;    
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 52px;
+    margin-top: -6px;
+}
+
+.middle-img{
+    
+    margin-left: 450px;
+    margin-top: 60px;
+    width: 400px;
+}
+
+.mid-banner-cover{
+    width: 675px;
+    border-radius: 16px;
+    margin-top: 71px;
+    margin-left: 308px;}
+
+.mid-banner-title{
+    margin-top: -238px;
+    color: azure;
+    margin-left: 331px;
+    font-size: 34px;
+    font-family: 'Inter', sans-serif;    
+
+}
+
+.mid-banner-head{
+    margin-top: -4px;
+    color: rgb(255, 255, 255);
+    margin-left: 331px;
+    font-family: 'Inter', sans-serif;    
+
+}
+
+.btn-prime{
+    border: none;
+    background-color:  rgb(216, 216, 216);
+    padding: 7px;
+    margin-left: 338px;
+    border-radius: 5px;
+    color: #070211;
+    font-family: 'Inter', sans-serif; 
+}
+
+.btn-prime:hover{
+    background-color: #fffefe;
+    transition: 0.5s;
 }
